@@ -1,0 +1,22 @@
+# Example configuration file:
+dataset_name = 'Example dataset'
+dataset_csv = 'example_detection.csv'
+
+# Name of the column which stores actual labels. Actual labels
+#   are 0 or 1 Boolean values
+label_col = 'y'
+
+# Name of the column which stores predicted labels. Predicated labels
+#   are 0 or 1 Boolean values
+outcome_col = 'y_hat'
+
+# Names of the columns which store protected and reference
+#   characteristcs (Black and White) and the category of
+#   the characteristic (Race). Multiple such triples can be provided.
+#   The columns are 0 or 1 Boolean values.
+# fairness_cols = [['Black', 'White', 'Race'], ['Asian', 'White', 'Race']]
+fairness_cols = [['Black', 'White', 'Race']]
+
+# [Optional] Name of the column that stores record timestamps. Column
+#   values should be strings in 'dd/mm/YYYY HH:MM:SS' format.
+# time_col = 'Time'

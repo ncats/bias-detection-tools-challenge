@@ -1,0 +1,15 @@
+dataset_name = 'Example dataset'
+
+# Path to the CSV file of the training and test dataset.
+dataset_csv = {'train' = 'example_train.csv', 'test' = 'example_test.csv'}
+
+# Name of the column which stores actual labels. Actual labels
+#   are 0 or 1 Boolean values.
+label_col = 'y'
+
+# Names of the columns which store protected and reference
+#   characteristcs (Black and White) and the category of
+#   the characteristic (Race). Multiple such triples can be provided.
+#   The columns are 0 or 1 Boolean values.
+# fairness_cols = [['Black', 'White', 'Race'], ['Asian', 'White', 'Race']]
+fairness_cols = [['Black', 'White', 'Race']]
