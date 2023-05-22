@@ -1,9 +1,11 @@
 # NIH NCATS Bias Detection Tools for Clinical Decision Making
 
 ## Background 
+<iframe src="https://player.vimeo.com/video/782736979?h=135c5c90ee" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
 The National Center for Advancing Translational Sciences (NCATS) launched the Bias Detection Tools for Clinical Decision Making Challenge in October 2022. The challenge will award up to $700,000 to those teams best able to make an open-source solution that detects and mitigates bias in AI/ML models used in healthcare settings. Over 200 individuals registered to compete in this Challenge, and the resources/webinars provided during the course of the Challenge aimed to provide context and cross-training for a complex issue that encompasses AI/ML, healthcare and bias/ethics.
 
-**This repository memorializes submissions from the winning teams, honorable mentions, and challengers.** The outline below documents each challenger's code and video submission, provides a link back to the original repository, and displays their videos. 
+**This repository memorializes submissions from the winning teams, honorable mentions, and challengers.** The outline below documents each challenger's code and video submission, provides a link back to the original repository, and displays their videos. Additional resources can be found in the [resources folder](resources/).
 
 ## Submissions 
 
@@ -80,3 +82,16 @@ Original submission: [https://nicksouligne.github.io/Ziri.github.io/](https://ni
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7SzWmqzgpXo?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Original submission: [https://github.com/sammyj-w/nih-bias-detect-and-remove-tool/wiki](https://github.com/sammyj-w/nih-bias-detect-and-remove-tool/wiki)
+
+## Webinars 
+<iframe src="https://player.vimeo.com/video/781919643?h=2142ead89c" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/781919643">NCATS_Bias_Detection_Webinar_12-15-2022</a> from <a href="https://vimeo.com/expeditionhacks">Blue Clarity</a>.</p>
+
+<iframe src="https://player.vimeo.com/video/794218973?h=800a940485" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/794218973">NCATS Bias Detection Webinar 2 1-30-2023</a> from <a href="https://vimeo.com/expeditionhacks">Blue Clarity</a>.</p>
+
+<iframe src="https://player.vimeo.com/video/799944018?h=81a3cd47e4" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/799944018">NCATS Bias Detection Webinar 3 2-17-2023</a> from <a href="https://vimeo.com/expeditionhacks">Blue Clarity</a>.</p>
+
+<iframe src="https://player.vimeo.com/video/824269430?h=5674be4068" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/824269430">NIH NCATS Showcase Day - May 5, 2023</a> from <a href="https://vimeo.com/expeditionhacks">Blue Clarity</a>.</p>
