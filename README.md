@@ -4,7 +4,9 @@
 [![IMAGE ALT TEXT](https://vumbnail.com/782736979.jpg)](https://player.vimeo.com/video/782736979 "Video Title")
 
 
-The National Center for Advancing Translational Sciences (NCATS) launched the Bias Detection Tools for Clinical Decision Making Challenge in October 2022. The challenge will award up to $700,000 to those teams best able to make an open-source solution that detects and mitigates bias in AI/ML models used in healthcare settings. Over 200 individuals registered to compete in this Challenge, and the resources/webinars provided during the course of the Challenge aimed to provide context and cross-training for a complex issue that encompasses AI/ML, healthcare and bias/ethics.
+The [National Center for Advancing Translational Sciences (NCATS)](https://ncats.nih.gov/funding/challenges/bias-detection-tools-in-health-care) launched the [Bias Detection Tools for Clinical Decision Making Challenge](https://expeditionhacks.com/bias-detection-healthcare/) in [October 2022](https://www.challenge.gov/?challenge=minimizing-bias-and-maximizing-long-term-accuracy-of-predictive-algorithms-in-healthcare&tab=overview). The challenge awarded a combined total of $700,000 to those teams best able to make an open-source solution that detects and mitigates bias in AI/ML models used in healthcare settings. Over 200 individuals registered to compete in this Challenge, and the resources/webinars provided during the course of the Challenge aimed to provide context and cross-training for a complex issue that encompasses AI/ML, healthcare and bias/ethics. The goal of this challenge was to create solutions and share these open-source tools with the community so that the solutions will be enhanced, augmented, integrated, and, optimally, implemented into healthcare systems.
+
+As part of NCATS’ mission to foster sustainable community engagement, sharing, and progress in this space, all outputs (submissions & documentation) are shared back to the community in this repository. Our goal is to further build out our tool-box for making AI/ML unbiased and fair for all subsets of populations; and provide a space for these solutions to allow iteration by stakeholders and to further exhibit and validate the robustness required of these types of tools.
 
 **This repository memorializes submissions from the winning teams, honorable mentions, and challengers.** The outline below documents each challenger's code and video submission, provides a link back to the original repository, and displays their videos. Additional resources can be found in the [resources folder](resources/).
 
@@ -87,14 +89,18 @@ Original submission: [https://github.com/sammyj-w/nih-bias-detect-and-remove-too
 
 ## Webinars 
 
-[![IMAGE ALT TEXT](https://vumbnail.com/781919643.jpg)](https://vimeo.com/781919643 "Video Title")
-<p><a href="https://vimeo.com/781919643">NCATS_Bias_Detection_Webinar_12-15-2022</a> from <a href="https://vimeo.com/expeditionhacks">Blue Clarity</a>.</p>
+[![IMAGE ALT TEXT](https://vumbnail.com/824269430.jpg)](https://player.vimeo.com/video/824269430 "Video Title")
+<p><a href="https://vimeo.com/824269430">NIH NCATS Showcase Day - May 5, 2023</a> from <a href="https://vimeo.com/expeditionhacks">Blue Clarity</a>.</p>
 
-[![IMAGE ALT TEXT](https://vumbnail.com/794218973.jpg)](https://player.vimeo.com/video/794218973 "Video Title")
-<p><a href="https://vimeo.com/794218973">NCATS Bias Detection Webinar 2 1-30-2023</a> from <a href="https://vimeo.com/expeditionhacks">Blue Clarity</a>.</p>
 
 [![IMAGE ALT TEXT](https://vumbnail.com/799944018.jpg)](https://player.vimeo.com/video/799944018 "Video Title")
 <p><a href="https://vimeo.com/799944018">NCATS Bias Detection Webinar 3 2-17-2023</a> from <a href="https://vimeo.com/expeditionhacks">Blue Clarity</a>.</p>
 
-[![IMAGE ALT TEXT](https://vumbnail.com/824269430.jpg)](https://player.vimeo.com/video/824269430 "Video Title")
-<p><a href="https://vimeo.com/824269430">NIH NCATS Showcase Day - May 5, 2023</a> from <a href="https://vimeo.com/expeditionhacks">Blue Clarity</a>.</p>
+[![IMAGE ALT TEXT](https://vumbnail.com/794218973.jpg)](https://player.vimeo.com/video/794218973 "Video Title")
+<p><a href="https://vimeo.com/794218973">NCATS Bias Detection Webinar 2 1-30-2023</a> from <a href="https://vimeo.com/expeditionhacks">Blue Clarity</a>.</p>
+
+[![IMAGE ALT TEXT](https://vumbnail.com/781919643.jpg)](https://vimeo.com/781919643 "Video Title")
+<p><a href="https://vimeo.com/781919643">NCATS_Bias_Detection_Webinar_12-15-2022</a> from <a href="https://vimeo.com/expeditionhacks">Blue Clarity</a>.</p>
+
+
+
