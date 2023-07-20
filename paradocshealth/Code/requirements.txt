@@ -239,7 +239,7 @@ pydocstyle==6.1.1
 pydub==0.25.1
 pyerfa==2.0.0
 pyflakes==2.4.0
-Pygments==2.11.2
+Pygments==2.15.0
 PyHamcrest==2.0.2
 PyJWT==2.4.0
 pylint==2.9.6
