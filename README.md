@@ -99,11 +99,9 @@ Original submission: [https://github.com/sammyj-w/nih-bias-detect-and-remove-too
 [![IMAGE ALT TEXT](https://vumbnail.com/794218973.jpg)](https://player.vimeo.com/video/794218973 "Video Title")
 <p><a href="https://vimeo.com/794218973">NCATS Bias Detection Webinar 2 1-30-2023</a> from <a href="https://vimeo.com/expeditionhacks">Blue Clarity</a>.</p>
 
-## HHS Vulnerability Disclosure Policy
-<a href = "https://www.hhs.gov/vulnerability-disclosure-policy/index.html" >HHS Vulnerability Disclosure Policy</a>
-
 [![IMAGE ALT TEXT](https://vumbnail.com/781919643.jpg)](https://vimeo.com/781919643 "Video Title")
 <p><a href="https://vimeo.com/781919643">NCATS_Bias_Detection_Webinar_12-15-2022</a> from <a href="https://vimeo.com/expeditionhacks">Blue Clarity</a>.</p>
 
-
+## HHS Vulnerability Disclosure Policy
+<a href = "https://www.hhs.gov/vulnerability-disclosure-policy/index.html" >HHS Vulnerability Disclosure Policy</a>
 
