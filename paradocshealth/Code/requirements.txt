@@ -292,7 +292,7 @@ scikit-image==0.19.3
 scikit-learn==1.0.2
 scikit-learn-intelex==2021.20221004.171935
 scipy==1.9.3
-Scrapy==2.6.2
+Scrapy==2.11.1
 seaborn==0.12.2
 Send2Trash==1.8.0
 sentence-transformers==2.2.2
