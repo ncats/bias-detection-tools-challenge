@@ -233,7 +233,7 @@ pycosat==0.6.4
 pycparser==2.21
 pyct==0.4.8
 pycurl==7.45.1
-pydantic==1.8.2
+pydantic==1.10.13
 PyDispatcher==2.0.5
 pydocstyle==6.1.1
 pydub==0.25.1
