@@ -4,15 +4,16 @@ name: "CodeQL-Advanced"
 # Define when the workflow should be triggered (on push to a specific branch and pull requests to the master branch)
 on:
   push:
-    branches: [ "shift-left" ]
+    branches: [ "master" ]
   pull_request:
-    branches: [ "shift-left" ]
+    branches: [ "master" ]
 
 # Define the jobs that will be executed as part of the workflow
 jobs:
   analyze:
     name: Analyze
-    runs-on: [ncatslnghrunpdv01.ncats.nih.gov]
+    runs-on:
+      group: ncats-onprem-internal-runners
     timeout-minutes: ${{ (matrix.language == 'swift' && 120) || 360 }}
     permissions:
       security-events: write
