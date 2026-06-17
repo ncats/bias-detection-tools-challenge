@@ -352,7 +352,7 @@ tornado==6.1
 tqdm==4.64.1
 traitlets==5.7.1
 transformers==4.26.0.dev0
-Twisted==22.2.0
+Twisted==23.8.0
 twisted-iocpsupport==1.0.2
 typer==0.4.2
 typing_extensions==4.4.0
