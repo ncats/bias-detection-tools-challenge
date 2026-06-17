@@ -82,7 +82,7 @@ fast-histogram==0.9
 fastjsonschema==2.16.2
 filelock==3.9.0
 flake8==4.0.1
-Flask==1.1.2
+Flask==2.2.5
 flit_core==3.6.0
 fonttools==4.25.0
 freetype-py==2.2.0
