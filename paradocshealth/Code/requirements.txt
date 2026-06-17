@@ -291,7 +291,7 @@ s3transfer==0.6.0
 scikit-image==0.19.3
 scikit-learn==1.0.2
 scikit-learn-intelex==2021.20221004.171935
-scipy==1.9.3
+scipy==1.10.0
 Scrapy==2.6.2
 seaborn==0.12.2
 Send2Trash==1.8.0
